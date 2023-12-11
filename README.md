@@ -1,4 +1,5 @@
 # FormSubmit
+Before run the solution,change file path in appsettings.json 
 Simple form data to submit to bakend
 ![image](https://github.com/saiswathika/FormSubmit/assets/40995404/571109a0-9819-401e-8be0-630cf3d798a1)
 ![image](https://github.com/saiswathika/FormSubmit/assets/40995404/7ef50cb8-b0ad-4a42-901c-756b0335814e)
